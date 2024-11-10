@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Harry-Solo/static/css/main.2cf11bfd.css",
+    "main.js": "/Harry-Solo/static/js/main.22203d1e.js",
+    "static/js/453.ed3810f9.chunk.js": "/Harry-Solo/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Harry-Solo/index.html",
+    "main.2cf11bfd.css.map": "/Harry-Solo/static/css/main.2cf11bfd.css.map",
+    "main.22203d1e.js.map": "/Harry-Solo/static/js/main.22203d1e.js.map",
+    "453.ed3810f9.chunk.js.map": "/Harry-Solo/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cf11bfd.css",
+    "static/js/main.22203d1e.js"
+  ]
+}
